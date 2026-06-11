@@ -1,0 +1,27 @@
+{
+  "name": "jest-test-recursion",
+  "version": "1.0.0",
+  "description": "Jest Test Recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanTudora/jest-test-recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/StefanTudora/jest-test-recursion/issues"
+  },
+  "homepage": "https://github.com/StefanTudora/jest-test-recursion#readme",
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "babel-jest": "^30.4.1",
+    "jest": "^30.4.2"
+  }
+}
